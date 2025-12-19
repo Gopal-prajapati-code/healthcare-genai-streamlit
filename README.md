@@ -13,6 +13,8 @@
 ## How to Run Locally
 pip install -r requirements.txt  
 streamlit run medical_summarizer.py
-
+## Demo link
+AI-Generated Diet & Lifestyle Plan Generator : https://healthcare-genai-app-diet-by-gopal.streamlit.app/
+Medical Report Summarization using Generative AI : https://healthcare-genai-app-by-gopal.streamlit.app/
 ## Disclaimer
 This project is for educational purposes only and does not provide medical advice.
